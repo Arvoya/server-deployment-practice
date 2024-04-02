@@ -13,13 +13,11 @@ Editor (not mandatory).
 
 ### Install
 
-    git clone https://github.com/ORG/PROJECT.git
+    git clone git@github.com:Arvoya/server-deployment-practice.git
     cd PROJECT
     npm install
 
 ### Configure app
-
-Any environment configuration steps.
 
 ### Start & watch
 
